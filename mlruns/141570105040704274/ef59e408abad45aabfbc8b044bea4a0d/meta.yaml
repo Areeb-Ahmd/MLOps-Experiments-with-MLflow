@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/141570105040704274/ef59e408abad45aabfbc8b044bea4a0d/artifacts
+end_time: 1771487009458
+entry_point_name: ''
+experiment_id: '141570105040704274'
+lifecycle_stage: active
+run_id: ef59e408abad45aabfbc8b044bea4a0d
+run_name: bedecked-skunk-689
+run_uuid: ef59e408abad45aabfbc8b044bea4a0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771487009093
+status: 3
+tags: []
+user_id: ahmad

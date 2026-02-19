@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/60777824ddf84c9b9fe52e6057234e4f/artifacts
+end_time: 1771443019757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60777824ddf84c9b9fe52e6057234e4f
+run_name: inquisitive-goat-0
+run_uuid: 60777824ddf84c9b9fe52e6057234e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771443019267
+status: 3
+tags: []
+user_id: ahmad

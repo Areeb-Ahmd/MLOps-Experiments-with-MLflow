@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/141570105040704274/bd9fac1242444a56ab8691a01aa36a73/artifacts
+end_time: 1771487661367
+entry_point_name: ''
+experiment_id: '141570105040704274'
+lifecycle_stage: active
+run_id: bd9fac1242444a56ab8691a01aa36a73
+run_name: victorious-snake-793
+run_uuid: bd9fac1242444a56ab8691a01aa36a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771487647078
+status: 3
+tags: []
+user_id: ahmad

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b6090f5671d3456a852707de8557c784/artifacts
+end_time: 1771441730031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6090f5671d3456a852707de8557c784
+run_name: capricious-stork-14
+run_uuid: b6090f5671d3456a852707de8557c784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771441729941
+status: 3
+tags: []
+user_id: ahmad
