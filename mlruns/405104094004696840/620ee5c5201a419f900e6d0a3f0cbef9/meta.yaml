@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/620ee5c5201a419f900e6d0a3f0cbef9/artifacts
+end_time: 1771490093352
+entry_point_name: ''
+experiment_id: '405104094004696840'
+lifecycle_stage: active
+run_id: 620ee5c5201a419f900e6d0a3f0cbef9
+run_name: charming-cod-29
+run_uuid: 620ee5c5201a419f900e6d0a3f0cbef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771490080785
+status: 3
+tags: []
+user_id: ahmad

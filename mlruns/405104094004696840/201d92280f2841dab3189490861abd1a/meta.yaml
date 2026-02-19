@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/201d92280f2841dab3189490861abd1a/artifacts
+end_time: 1771490087022
+entry_point_name: ''
+experiment_id: '405104094004696840'
+lifecycle_stage: active
+run_id: 201d92280f2841dab3189490861abd1a
+run_name: dashing-lark-41
+run_uuid: 201d92280f2841dab3189490861abd1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771490086964
+status: 3
+tags: []
+user_id: ahmad

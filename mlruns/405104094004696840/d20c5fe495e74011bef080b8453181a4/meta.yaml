@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/d20c5fe495e74011bef080b8453181a4/artifacts
+end_time: 1771490086687
+entry_point_name: ''
+experiment_id: '405104094004696840'
+lifecycle_stage: active
+run_id: d20c5fe495e74011bef080b8453181a4
+run_name: vaunted-skink-45
+run_uuid: d20c5fe495e74011bef080b8453181a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771490086641
+status: 3
+tags: []
+user_id: ahmad

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/66cf58d9e6b14bbaba59a25863a1672f/artifacts
+end_time: 1771490086958
+entry_point_name: ''
+experiment_id: '405104094004696840'
+lifecycle_stage: active
+run_id: 66cf58d9e6b14bbaba59a25863a1672f
+run_name: entertaining-ram-257
+run_uuid: 66cf58d9e6b14bbaba59a25863a1672f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771490086908
+status: 3
+tags: []
+user_id: ahmad

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/63ca7875a03e4fd9a22821d9a368a96d/artifacts
+end_time: 1771490086420
+entry_point_name: ''
+experiment_id: '405104094004696840'
+lifecycle_stage: active
+run_id: 63ca7875a03e4fd9a22821d9a368a96d
+run_name: amusing-calf-912
+run_uuid: 63ca7875a03e4fd9a22821d9a368a96d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771490086364
+status: 3
+tags: []
+user_id: ahmad

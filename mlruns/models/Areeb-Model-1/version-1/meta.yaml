@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1771490569657
+current_stage: None
+description: ''
+last_updated_timestamp: 1771490569657
+name: Areeb-Model-1
+run_id: 620ee5c5201a419f900e6d0a3f0cbef9
+run_link: ''
+source: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/620ee5c5201a419f900e6d0a3f0cbef9/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/620ee5c5201a419f900e6d0a3f0cbef9/artifacts/random_forest
+user_id: null
+version: 1

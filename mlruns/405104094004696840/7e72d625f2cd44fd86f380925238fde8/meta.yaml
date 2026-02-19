@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/7e72d625f2cd44fd86f380925238fde8/artifacts
+end_time: 1771490086738
+entry_point_name: ''
+experiment_id: '405104094004696840'
+lifecycle_stage: active
+run_id: 7e72d625f2cd44fd86f380925238fde8
+run_name: masked-goose-3
+run_uuid: 7e72d625f2cd44fd86f380925238fde8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771490086692
+status: 3
+tags: []
+user_id: ahmad

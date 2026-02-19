@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/c4c5d9dafe524a88a0f14f3b9c2658b3/artifacts
+end_time: 1771490086901
+entry_point_name: ''
+experiment_id: '405104094004696840'
+lifecycle_stage: active
+run_id: c4c5d9dafe524a88a0f14f3b9c2658b3
+run_name: gaudy-asp-845
+run_uuid: c4c5d9dafe524a88a0f14f3b9c2658b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771490086853
+status: 3
+tags: []
+user_id: ahmad

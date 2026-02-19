@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/885684b9e73f44d6b49a2d2dd714a7d9/artifacts
+end_time: 1771490086847
+entry_point_name: ''
+experiment_id: '405104094004696840'
+lifecycle_stage: active
+run_id: 885684b9e73f44d6b49a2d2dd714a7d9
+run_name: tasteful-horse-137
+run_uuid: 885684b9e73f44d6b49a2d2dd714a7d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771490086798
+status: 3
+tags: []
+user_id: ahmad

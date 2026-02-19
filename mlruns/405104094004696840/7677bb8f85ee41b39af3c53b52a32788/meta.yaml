@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Coding/MLOps/MLOps-Experiments-with-MLflow/mlruns/405104094004696840/7677bb8f85ee41b39af3c53b52a32788/artifacts
+end_time: 1771490086792
+entry_point_name: ''
+experiment_id: '405104094004696840'
+lifecycle_stage: active
+run_id: 7677bb8f85ee41b39af3c53b52a32788
+run_name: kindly-vole-112
+run_uuid: 7677bb8f85ee41b39af3c53b52a32788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771490086744
+status: 3
+tags: []
+user_id: ahmad
